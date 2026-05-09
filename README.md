@@ -1,12 +1,12 @@
-Excited to share my first Python project 🚀
+# Python Calculator
 
-Built a Simple Calculator using Python and uploaded it to GitHub.
+Simple calculator made using Python.
 
-Skills:
-- Python
-- Git
-- GitHub
-- VS Code
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
 
-GitHub Repo:
-https://github.com/pugaliniyan0369/python-calculator
+## Author
+Pugal Iniyan
